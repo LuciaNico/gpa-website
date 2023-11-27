@@ -3,8 +3,6 @@ university-profile: "https://www.research.lancs.ac.uk/portal/en/people/guillermo
 layout: default
 ---
 
-{% include navigation.html %}
-
 # Building my Website
 
 ## Description
