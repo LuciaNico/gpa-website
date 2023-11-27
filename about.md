@@ -10,6 +10,5 @@ layout: default
 
 ## Cite us
 
-{% include footer.html %}
 
 
