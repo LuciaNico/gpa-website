@@ -13,6 +13,5 @@ This is my personal website.
 
 See my [University website]({{page.university-profile}}) profile.
 
-{ % include links.md % }
 
 
