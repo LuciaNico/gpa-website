@@ -13,4 +13,4 @@ This is my personal website.
 
 See my [University website]({{page.university-profile}}) profile.
 
-[Contact me if you have questions.](mailto:{{ site.email }})
+{% include footer.html %}
