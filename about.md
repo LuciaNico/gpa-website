@@ -1,12 +1,15 @@
 ---
 layout: default
+title: About
 ---
-
-# About
 
 ## Project
 
+Describe here. 
+
 ## Collaborators
+
+List cols here.
 
 ## Cite us
 
