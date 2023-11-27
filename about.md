@@ -7,4 +7,4 @@
 ## Cite us
 
 ## Contact me
-- Email: 
+- Email: [{{site.email}}](mailto:{{ site.email }})
