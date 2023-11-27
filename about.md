@@ -9,3 +9,5 @@
 ## Cite us
 
 {% include footer.html %}
+
+{ % include file_name % }
