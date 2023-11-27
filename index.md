@@ -2,6 +2,7 @@
 university-profile: "https://www.research.lancs.ac.uk/portal/en/people/guillermo-perez-algorta"
 ---
 
+{% include navigation.html %}
 
 # Building my Website
 
